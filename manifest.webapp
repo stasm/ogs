@@ -9,14 +9,14 @@
     "128": "/img/icons/mortar-128.png"
   },
   "developer": {
-    "name": "Staś Małolepszy",
+    "name": "Stas Malolepszy",
     "url": "http://informationisart.com/"
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/cache.manifest",
   "locales": {
     "pl": {
-      "description": "Slajdy na moje wystąpienie na onGameStart 2012",
+      "description": "Slajdy na moje wystapienie na onGameStart 2012",
     }
   },
   "default_locale": "en"
