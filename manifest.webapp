@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "name": "Buzzwords App",
+  "name": "Buzzwords",
   "description": "Support for my talk at onGameStart 2012",
   "launch_path": "/",
   "icons": {
