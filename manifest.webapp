@@ -2,7 +2,7 @@
   "version": "0.1",
   "name": "B2G Pocket Guide",
   "description": "Support for my talk at onGameStart 2012",
-  "launch_path": "/",
+  "launch_path": "/ogs/",
   "icons": {
     "16": "/img/icons/mortar-16.png",
     "48": "/img/icons/mortar-48.png",
