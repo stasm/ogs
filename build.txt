@@ -2,6 +2,8 @@
 css/app.css
 ----------------
 css/defaults.css
+css/bootstrap.css
+css/bootstrap-responsive.css
 css/app.css
 
 css/bootstrap-responsive.css
@@ -63,5 +65,6 @@ css/defaults.css
 js/app.js
 ----------------
 js/lib/jquery.js
+js/lib/hammer.js
 js/lib/install.js
 js/app.js
