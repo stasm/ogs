@@ -3,7 +3,6 @@ css/app.css
 ----------------
 css/defaults.css
 css/bootstrap.css
-css/bootstrap-responsive.css
 css/app.css
 
 css/bootstrap-responsive.css
