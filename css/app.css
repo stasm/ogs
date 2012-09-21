@@ -4288,7 +4288,7 @@ body {
 }
 #slideshow {
     width: 280px;
-    height: 400px;
+    height: 360px;
     overflow: hidden;
     position:relative;
     background: #eee;
@@ -4301,7 +4301,7 @@ body {
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out;
     width: 3000px;
-    height: 400px;
+    height: 360px;
     margin: 0;
     padding: 0;
     list-style:none;
@@ -4309,7 +4309,7 @@ body {
 #slideshow ul li {
     float: left;
     width: 280px;
-    height: 400px;
+    height: 360px;
     overflow:hidden;
 }
 #slideshow ul li img {
